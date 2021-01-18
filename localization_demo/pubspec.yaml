@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_localization:
+  flutter_localizations:
     sdk: flutter
   shared_preferences: ^0.5.12+4
 
